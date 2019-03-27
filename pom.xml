@@ -41,12 +41,12 @@
 <distributionManagement>
     <repository>
         <id>deployment</id>
-        <name>release softx</name>
+        <name>release devops</name>
         <url>http://54.165.24.95:8081/repository/Release_Devops/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
-        <name>snapshot softx</name>
+        <name>snapshot devops</name>
         <url>http://54.165.24.95:8081/repository/Sanshot_Devops/</url>
     </snapshotRepository>
 </distributionManagement>
