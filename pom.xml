@@ -42,12 +42,12 @@
     <repository>
         <id>deployment</id>
         <name>release devops</name>
-        <url>http://54.145.192.112:8081/repository/Release_Devops/</url>
+        <url>http://18.212.128.31:8081/repository/Release_Devops/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>snapshot devops</name>
-        <url>http://54.145.192.112:8081/repository/Sanshot_Devops/</url>
+        <url>http://18.212.128.31:8081/repository/Sanshot_Devops/</url>
     </snapshotRepository>
 </distributionManagement>
 
